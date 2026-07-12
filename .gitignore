@@ -1,0 +1,39 @@
+# Operating system and editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.vs/
+*.tmp
+*.bak
+*.log
+
+# Blender
+*.blend1
+*.blend2
+*.blend@
+__pycache__/
+
+# Substance 3D
+*.sbsar.log
+.sbsprs
+
+# Unreal Engine generated files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Unity generated files
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+
+# Generated caches and raw output
+cache/
+caches/
+simulation_cache/
+renders/raw/
