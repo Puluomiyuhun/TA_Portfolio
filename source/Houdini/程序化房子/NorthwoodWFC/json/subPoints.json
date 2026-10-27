@@ -1,0 +1,2356 @@
+{
+    "points": [
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "stairs_landing_01",
+            "name": "stairs_landing_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "stairs_landing_pillar_half_01",
+            "name": "stairs_landing_pillar_half_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "stairs_landing_pillar_full_01",
+            "name": "stairs_landing_pillar_full_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "stairs_01",
+            "name": "stairs_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "stairs_upper_01",
+            "name": "stairs_upper_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "stairs_top_01",
+            "name": "stairs_top_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_01",
+            "name": "wall_1b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "floor_01",
+            "name": "wall_1b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_01",
+            "name": "wall_2b_opp_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                -1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_01",
+            "name": "wall_2b_opp_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "floor_01",
+            "name": "wall_2b_opp_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_01",
+            "name": "wall_2b_adj_01"
+        },
+        {
+            "N": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_01",
+            "name": "wall_2b_adj_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "floor_01",
+            "name": "wall_2b_adj_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_pillar_01",
+            "name": "wall_2b_adj_01"
+        },
+        {
+            "N": [
+                -1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_01",
+            "name": "wall_3b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_01",
+            "name": "wall_3b_01"
+        },
+        {
+            "N": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_01",
+            "name": "wall_3b_01"
+        },
+        {
+            "N": [
+                -1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "floor_01",
+            "name": "wall_3b_01"
+        },
+        {
+            "N": [
+                -1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_pillar_01",
+            "name": "wall_3b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_pillar_01",
+            "name": "wall_3b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "floor_01",
+            "name": "wall_none_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "window_large_01",
+            "name": "wall_window_1b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "floor_01",
+            "name": "wall_window_1b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "window_large_01",
+            "name": "wall_window_2b_adj_01"
+        },
+        {
+            "N": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_01",
+            "name": "wall_window_2b_adj_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "floor_01",
+            "name": "wall_window_2b_adj_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_pillar_01",
+            "name": "wall_window_2b_adj_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "window_large_01",
+            "name": "wall_window_2b_opp_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                -1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_01",
+            "name": "wall_window_2b_opp_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "floor_01",
+            "name": "wall_window_2b_opp_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "window_large_01",
+            "name": "wall_window_3b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "floor_01",
+            "name": "wall_window_3b_01"
+        },
+        {
+            "N": [
+                -1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_01",
+            "name": "wall_window_3b_01"
+        },
+        {
+            "N": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_01",
+            "name": "wall_window_3b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_pillar_01",
+            "name": "wall_window_3b_01"
+        },
+        {
+            "N": [
+                -1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_pillar_01",
+            "name": "wall_window_3b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.19999998807907104,
+                0.05000000074505806,
+                2.0
+            ],
+            "childName": "door_01",
+            "name": "wall_door_1b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_door_01",
+            "name": "wall_door_1b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "floor_01",
+            "name": "wall_door_1b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.19999998807907104,
+                0.05000000074505806,
+                2.0
+            ],
+            "childName": "door_01",
+            "name": "wall_door_2b_adj_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_door_01",
+            "name": "wall_door_2b_adj_01"
+        },
+        {
+            "N": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_01",
+            "name": "wall_door_2b_adj_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "floor_01",
+            "name": "wall_door_2b_adj_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_pillar_01",
+            "name": "wall_door_2b_adj_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.19999998807907104,
+                0.05000000074505806,
+                2.0
+            ],
+            "childName": "door_01",
+            "name": "wall_door_2b_opp_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_door_01",
+            "name": "wall_door_2b_opp_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                -1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_01",
+            "name": "wall_door_2b_opp_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "floor_01",
+            "name": "wall_door_2b_opp_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.19999998807907104,
+                0.05000000074505806,
+                2.0
+            ],
+            "childName": "door_01",
+            "name": "wall_door_3b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_door_01",
+            "name": "wall_door_3b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "floor_01",
+            "name": "wall_door_3b_01"
+        },
+        {
+            "N": [
+                -1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_01",
+            "name": "wall_door_3b_01"
+        },
+        {
+            "N": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_01",
+            "name": "wall_door_3b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_pillar_01",
+            "name": "wall_door_3b_01"
+        },
+        {
+            "N": [
+                -1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_pillar_01",
+            "name": "wall_door_3b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.19999998807907104,
+                0.05000000074505806,
+                2.0
+            ],
+            "childName": "door_01",
+            "name": "wall_door_groud_1b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_door_01",
+            "name": "wall_door_groud_1b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "floor_01",
+            "name": "wall_door_groud_1b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.19999998807907104,
+                0.05000000074505806,
+                2.0
+            ],
+            "childName": "door_01",
+            "name": "wall_door_groud_2b_adj_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_door_01",
+            "name": "wall_door_groud_2b_adj_01"
+        },
+        {
+            "N": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_01",
+            "name": "wall_door_groud_2b_adj_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "floor_01",
+            "name": "wall_door_groud_2b_adj_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_pillar_01",
+            "name": "wall_door_groud_2b_adj_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.19999998807907104,
+                0.05000000074505806,
+                2.0
+            ],
+            "childName": "door_01",
+            "name": "wall_door_groud_2b_opp_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_door_01",
+            "name": "wall_door_groud_2b_opp_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                -1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_01",
+            "name": "wall_door_groud_2b_opp_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "floor_01",
+            "name": "wall_door_groud_2b_opp_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.19999998807907104,
+                0.05000000074505806,
+                2.0
+            ],
+            "childName": "door_01",
+            "name": "wall_door_groud_3b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_door_01",
+            "name": "wall_door_groud_3b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "floor_01",
+            "name": "wall_door_groud_3b_01"
+        },
+        {
+            "N": [
+                -1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_01",
+            "name": "wall_door_groud_3b_01"
+        },
+        {
+            "N": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_01",
+            "name": "wall_door_groud_3b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_pillar_01",
+            "name": "wall_door_groud_3b_01"
+        },
+        {
+            "N": [
+                -1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_pillar_01",
+            "name": "wall_door_groud_3b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "window_small_01",
+            "name": "wall_window_1b_02"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "floor_01",
+            "name": "wall_window_1b_02"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "window_small_01",
+            "name": "wall_window_2b_adj_02"
+        },
+        {
+            "N": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_01",
+            "name": "wall_window_2b_adj_02"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "floor_01",
+            "name": "wall_window_2b_adj_02"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_pillar_01",
+            "name": "wall_window_2b_adj_02"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "window_small_01",
+            "name": "wall_window_2b_opp_02"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                -1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_01",
+            "name": "wall_window_2b_opp_02"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "floor_01",
+            "name": "wall_window_2b_opp_02"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "window_small_01",
+            "name": "wall_window_3b_02"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "floor_01",
+            "name": "wall_window_3b_02"
+        },
+        {
+            "N": [
+                -1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_01",
+            "name": "wall_window_3b_02"
+        },
+        {
+            "N": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_01",
+            "name": "wall_window_3b_02"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_pillar_01",
+            "name": "wall_window_3b_02"
+        },
+        {
+            "N": [
+                -1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_pillar_01",
+            "name": "wall_window_3b_02"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "porch_middle_01",
+            "name": "porch_middle_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "porch_middle_01",
+            "name": "porch_overhang_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "porch_middle_01",
+            "name": "porch_overhang_railing_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "porch_01",
+            "name": "porch_empty_1b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "porch_01",
+            "name": "porch_empty_2b_opp_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                -1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "porch_01",
+            "name": "porch_empty_2b_opp_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "porch_01",
+            "name": "porch_empty_2b_adj_01"
+        },
+        {
+            "N": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "porch_01",
+            "name": "porch_empty_2b_adj_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "porch_pillar_01",
+            "name": "porch_empty_2b_adj_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "porch_01",
+            "name": "porch_empty_3b_01"
+        },
+        {
+            "N": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "porch_01",
+            "name": "porch_empty_3b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                -1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "porch_01",
+            "name": "porch_empty_3b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "porch_pillar_01",
+            "name": "porch_empty_3b_01"
+        },
+        {
+            "N": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "porch_pillar_01",
+            "name": "porch_empty_3b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "overhang_middle_01",
+            "name": "overhang_middle_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "overhang_standalone_01",
+            "name": "overhang_standalone_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "overhang_right_01",
+            "name": "overhang_right_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "overhang_left_01",
+            "name": "overhang_left_01"
+        },
+        {
+            "N": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                1.899999976158142,
+                0.0,
+                -0.18000000715255737
+            ],
+            "childName": "railing_02",
+            "name": "overhang_railing_left_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                -0.05000000074505806,
+                0.0,
+                1.399999976158142
+            ],
+            "childName": "railing_01",
+            "name": "overhang_railing_left_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "overhang_left_01",
+            "name": "overhang_railing_left_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                1.899999976158142,
+                0.0,
+                -1.7799999713897705
+            ],
+            "childName": "railing_pillar_01",
+            "name": "overhang_railing_left_01"
+        },
+        {
+            "N": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                -2.0,
+                0.0,
+                -0.18000000715255737
+            ],
+            "childName": "railing_02",
+            "name": "overhang_railing_right_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                -0.05000000074505806,
+                0.0,
+                1.399999976158142
+            ],
+            "childName": "railing_01",
+            "name": "overhang_railing_right_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "overhang_right_01",
+            "name": "overhang_railing_right_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                -2.0,
+                0.0,
+                -1.7799999713897705
+            ],
+            "childName": "railing_pillar_01",
+            "name": "overhang_railing_right_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "roof_left_01",
+            "name": "roof_left_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "roof_right_01",
+            "name": "roof_right_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "roof_middle_01",
+            "name": "roof_middle_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "roof_flat_01",
+            "name": "roof_flat_middle_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "roof_flat_01",
+            "name": "roof_flat_1b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.029999999329447746,
+                2.0
+            ],
+            "childName": "railing_01",
+            "name": "roof_flat_1b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "roof_flat_01",
+            "name": "roof_flat_2b_opp_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.029999999329447746,
+                2.0
+            ],
+            "childName": "railing_01",
+            "name": "roof_flat_2b_opp_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                -1.0
+            ],
+            "P": [
+                -0.0,
+                0.029999999329447746,
+                -2.0
+            ],
+            "childName": "railing_01",
+            "name": "roof_flat_2b_opp_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "roof_flat_01",
+            "name": "roof_flat_2b_adj_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.029999999329447746,
+                2.0
+            ],
+            "childName": "railing_01",
+            "name": "roof_flat_2b_adj_01"
+        },
+        {
+            "N": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                2.0,
+                0.029999999329447746,
+                -0.0
+            ],
+            "childName": "railing_01",
+            "name": "roof_flat_2b_adj_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                2.0,
+                0.05000000074505806,
+                2.0
+            ],
+            "childName": "railing_pillar_01",
+            "name": "roof_flat_2b_adj_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "roof_flat_01",
+            "name": "roof_flat_3b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.029999999329447746,
+                2.0
+            ],
+            "childName": "railing_01",
+            "name": "roof_flat_3b_01"
+        },
+        {
+            "N": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                2.0,
+                0.029999999329447746,
+                -0.0
+            ],
+            "childName": "railing_01",
+            "name": "roof_flat_3b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                -1.0
+            ],
+            "P": [
+                -0.0,
+                0.029999999329447746,
+                -2.0
+            ],
+            "childName": "railing_01",
+            "name": "roof_flat_3b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                2.0,
+                0.05000000074505806,
+                2.0
+            ],
+            "childName": "railing_pillar_01",
+            "name": "roof_flat_3b_01"
+        },
+        {
+            "N": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                2.0,
+                0.05000000074505806,
+                -2.0
+            ],
+            "childName": "railing_pillar_01",
+            "name": "roof_flat_3b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "roof_standalone_01",
+            "name": "roof_standalone_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_interior_01",
+            "name": "wall_interior_1b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_interior_01",
+            "name": "wall_interior_2b_opp_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                -1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_interior_01",
+            "name": "wall_interior_2b_opp_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_interior_01",
+            "name": "wall_interior_2b_adj_01"
+        },
+        {
+            "N": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_interior_01",
+            "name": "wall_interior_2b_adj_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_pillar_01",
+            "name": "wall_interior_2b_adj_01"
+        },
+        {
+            "N": [
+                -1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_interior_01",
+            "name": "wall_interior_3b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_interior_01",
+            "name": "wall_interior_3b_01"
+        },
+        {
+            "N": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_interior_01",
+            "name": "wall_interior_3b_01"
+        },
+        {
+            "N": [
+                -1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_pillar_01",
+            "name": "wall_interior_3b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_pillar_01",
+            "name": "wall_interior_3b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                -0.6800000071525574,
+                0.05000000074505806,
+                2.0
+            ],
+            "childName": "door_interior_01",
+            "name": "wall_door_interior_1b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_door_interior_01",
+            "name": "wall_door_interior_1b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                -0.6800000071525574,
+                0.05000000074505806,
+                2.0
+            ],
+            "childName": "door_interior_01",
+            "name": "wall_door_interior_2b_adj_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_door_interior_01",
+            "name": "wall_door_interior_2b_adj_01"
+        },
+        {
+            "N": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                2.0,
+                0.05000000074505806,
+                0.6800000071525574
+            ],
+            "childName": "door_interior_01",
+            "name": "wall_door_interior_2b_adj_01"
+        },
+        {
+            "N": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_door_interior_01",
+            "name": "wall_door_interior_2b_adj_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_pillar_01",
+            "name": "wall_door_interior_2b_adj_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                -0.6800000071525574,
+                0.05000000074505806,
+                2.0
+            ],
+            "childName": "door_interior_01",
+            "name": "wall_door_interior_2b_opp_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_door_interior_01",
+            "name": "wall_door_interior_2b_opp_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                -1.0
+            ],
+            "P": [
+                0.6800000071525574,
+                0.05000000074505806,
+                -2.0
+            ],
+            "childName": "door_interior_01",
+            "name": "wall_door_interior_2b_opp_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                -1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_door_interior_01",
+            "name": "wall_door_interior_2b_opp_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                -0.6800000071525574,
+                0.05000000074505806,
+                2.0
+            ],
+            "childName": "door_interior_01",
+            "name": "wall_door_interior_3b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_door_interior_01",
+            "name": "wall_door_interior_3b_01"
+        },
+        {
+            "N": [
+                -1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                -2.0,
+                0.05000000074505806,
+                -0.6800000071525574
+            ],
+            "childName": "door_interior_01",
+            "name": "wall_door_interior_3b_01"
+        },
+        {
+            "N": [
+                -1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_door_interior_01",
+            "name": "wall_door_interior_3b_01"
+        },
+        {
+            "N": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                2.0,
+                0.05000000074505806,
+                0.6800000071525574
+            ],
+            "childName": "door_interior_01",
+            "name": "wall_door_interior_3b_01"
+        },
+        {
+            "N": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                -0.0,
+                0.0,
+                -0.0
+            ],
+            "childName": "wall_door_interior_01",
+            "name": "wall_door_interior_3b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_pillar_01",
+            "name": "wall_door_interior_3b_01"
+        },
+        {
+            "N": [
+                -1.0,
+                0.0,
+                0.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "wall_pillar_01",
+            "name": "wall_door_interior_3b_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "porch_plank_01",
+            "name": "porch_plank_01"
+        },
+        {
+            "N": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "P": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "childName": "porch_stairs_01",
+            "name": "porch_stairs_01"
+        }
+    ]
+}

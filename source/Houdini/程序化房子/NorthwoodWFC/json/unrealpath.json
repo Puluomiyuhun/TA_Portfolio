@@ -1,0 +1,192 @@
+{
+    "unrealPath": [
+        {
+            "HoudiniName": "stairs_landing_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Stairs/stairs_landing_01.stairs_landing_01'"
+        },
+        {
+            "HoudiniName": "stairs_landing_pillar_half_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Stairs/stairs_landing_pillar_half_01.stairs_landing_pillar_half_01'"
+        },
+        {
+            "HoudiniName": "stairs_landing_pillar_full_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Stairs/stairs_landing_pillar_full_01.stairs_landing_pillar_full_01'"
+        },
+        {
+            "HoudiniName": "stairs_upper_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Stairs/stairs_upper_01.stairs_upper_01'"
+        },
+        {
+            "HoudiniName": "wall_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Wall/wall_01.wall_01'"
+        },
+        {
+            "HoudiniName": "floor_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Wall/floor_01.floor_01'"
+        },
+        {
+            "HoudiniName": "wall_pillar_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Wall/wall_pillar_01.wall_pillar_01'"
+        },
+        {
+            "HoudiniName": "window_small_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Wall/window_small_01.window_small_01'"
+        },
+        {
+            "HoudiniName": "window_large_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Wall/window_large_01.window_large_01'"
+        },
+        {
+            "HoudiniName": "wall_door_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Wall/wall_door_01.wall_door_01'"
+        },
+        {
+            "HoudiniName": "door_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Wall/door_01.door_01'"
+        },
+        {
+            "HoudiniName": "porch_middle_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Porch/porch_middle_01.porch_middle_01'"
+        },
+        {
+            "HoudiniName": "porch_1b_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Porch/porch_1b_01.porch_1b_01'"
+        },
+        {
+            "HoudiniName": "porch_2b_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Porch/porch_2b_01.porch_2b_01'"
+        },
+        {
+            "HoudiniName": "porch_3b_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Porch/porch_3b_01.porch_3b_01'"
+        },
+        {
+            "HoudiniName": "porch_plank_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Porch/porch_plank_01.porch_plank_01'"
+        },
+        {
+            "HoudiniName": "porch_stairs_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Porch/porch_stairs_01.porch_stairs_01'"
+        },
+        {
+            "HoudiniName": "porch_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Porch/porch_01.porch_01'"
+        },
+        {
+            "HoudiniName": "porch_pillar_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Porch/porch_pillar_01.porch_pillar_01'"
+        },
+        {
+            "HoudiniName": "overhang_middle_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Overhang/overhang_middle_01.overhang_middle_01'"
+        },
+        {
+            "HoudiniName": "overhang_standalone_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Overhang/overhang_standalone_01.overhang_standalone_01'"
+        },
+        {
+            "HoudiniName": "overhang_right_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Overhang/overhang_right_01.overhang_right_01'"
+        },
+        {
+            "HoudiniName": "overhang_left_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Overhang/overhang_left_01.overhang_left_01'"
+        },
+        {
+            "HoudiniName": "railing_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Roof/railing_01.railing_01'"
+        },
+        {
+            "HoudiniName": "railing_02",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Roof/railing_02.railing_02'"
+        },
+        {
+            "HoudiniName": "railing_pillar_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Roof/railing_pillar_01.railing_pillar_01'"
+        },
+        {
+            "HoudiniName": "roof_left_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Roof/roof_left_01.roof_left_01'"
+        },
+        {
+            "HoudiniName": "roof_right_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Roof/roof_right_01.roof_right_01'"
+        },
+        {
+            "HoudiniName": "roof_middle_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Roof/roof_middle_01.roof_middle_01'"
+        },
+        {
+            "HoudiniName": "roof_flat_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Roof/roof_flat_01.roof_flat_01'"
+        },
+        {
+            "HoudiniName": "roof_standalone_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Roof/roof_standalone_01.roof_standalone_01'"
+        },
+        {
+            "HoudiniName": "wall_interior_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Wall/wall_interior_01.wall_interior_01'"
+        },
+        {
+            "HoudiniName": "door_interior_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Wall/door_interior_01.door_interior_01'"
+        },
+        {
+            "HoudiniName": "wall_door_interior_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Wall/wall_door_interior_01.wall_door_interior_01'"
+        },
+        {
+            "HoudiniName": "stairs_01",
+            "UnrealPath": "StaticMesh'/Game/WFCBuilding/Mesh/Stairs/stairs_01.stairs_01'"
+        },
+        {
+            "HoudiniName": "Old_Wooden_Bench",
+            "UnrealPath": "StaticMesh'/Game/Northwood/EpicContent/Megascans/3D_Assets/Old_Wooden_Bench_ueigebjfa/Old_Wooden_Bench_LOD0_ueigebjfa.Old_Wooden_Bench_LOD0_ueigebjfa'"
+        },
+        {
+            "HoudiniName": "Old_Wooden_Carafe",
+            "UnrealPath": "StaticMesh'/Game/Northwood/EpicContent/Megascans/3D_Assets/Old_Wooden_Carafe_udzjebtfa/Old_Wooden_Carafe_LOD0_udzjebtfa.Old_Wooden_Carafe_LOD0_udzjebtfa'"
+        },
+        {
+            "HoudiniName": "Old_Wooden_Chest",
+            "UnrealPath": "StaticMesh'/Game/Northwood/EpicContent/Megascans/3D_Assets/Old_Wooden_Chest_ukroeh1aw/Old_Wooden_Chest_LOD0_ukroeh1aw.Old_Wooden_Chest_LOD0_ukroeh1aw'"
+        },
+        {
+            "HoudiniName": "Old_Wooden_Stool",
+            "UnrealPath": "StaticMesh'/Game/Northwood/EpicContent/Megascans/3D_Assets/Old_Wooden_Stool_ukorbjnbw/Old_Wooden_Stool_LOD0_ukorbjnbw.Old_Wooden_Stool_LOD0_ukorbjnbw'"
+        },
+        {
+            "HoudiniName": "Rusty_Metal_Milk_Churn",
+            "UnrealPath": "StaticMesh'/Game/Northwood/EpicContent/Megascans/3D_Assets/Rusty_Metal_Milk_Churn_ukoschvbw/Rusty_Metal_Milk_Churn_LOD0_ukoschvbw.Rusty_Metal_Milk_Churn_LOD0_ukoschvbw'"
+        },
+        {
+            "HoudiniName": "Rusty_Metal_Tub",
+            "UnrealPath": "StaticMesh'/Game/Northwood/EpicContent/Megascans/3D_Assets/Rusty_Metal_Tub_ukqkecpbw/Rusty_Metal_Tub_LOD0_ukqkecpbw.Rusty_Metal_Tub_LOD0_ukqkecpbw'"
+        },
+        {
+            "HoudiniName": "Sandbag_Pile",
+            "UnrealPath": "StaticMesh'/Game/Northwood/EpicContent/Megascans/3D_Assets/Sandbag_Pile_udqjbg1qx/Sandbag_Pile_LOD0_udqjbg1qx.Sandbag_Pile_LOD0_udqjbg1qx'"
+        },
+        {
+            "HoudiniName": "Wooden_Ammo_Crate",
+            "UnrealPath": "StaticMesh'/Game/Northwood/EpicContent/Megascans/3D_Assets/Wooden_Ammo_Crate_uehqdivfa/Wooden_Ammo_Crate_LOD0_uehqdivfa.Wooden_Ammo_Crate_LOD0_uehqdivfa'"
+        },
+        {
+            "HoudiniName": "Wooden_Chair",
+            "UnrealPath": "StaticMesh'/Game/Northwood/EpicContent/Megascans/3D_Assets/Wooden_Chair_ukipagtbw_00/Wooden_Chair_LOD0_ukipagtbw.Wooden_Chair_LOD0_ukipagtbw'"
+        },
+        {
+            "HoudiniName": "Wooden_Crate_01",
+            "UnrealPath": "StaticMesh'/Game/Northwood/EpicContent/Megascans/3D_Assets/Wooden_Crate_udribbjqx/Wooden_Crate_LOD0_udribbjqx.Wooden_Crate_LOD0_udribbjqx'"
+        },
+        {
+            "HoudiniName": "Wooden_Crate_02",
+            "UnrealPath": "StaticMesh'/Game/Northwood/EpicContent/Megascans/3D_Assets/Wooden_Crate_ugzgagwga/Wooden_Crate_LOD0_ugzgagwga_Aset_container_box_M_ugzgagwga_00_LOD0.Wooden_Crate_LOD0_ugzgagwga_Aset_container_box_M_ugzgagwga_00_LOD0'"
+        },
+        {
+            "HoudiniName": "Wooden_Wheel",
+            "UnrealPath": "StaticMesh'/Game/Northwood/EpicContent/Megascans/3D_Assets/Wooden_Wheel_tmrxfdhda/Wooden_Wheel_LOD0_tmrxfdhda.Wooden_Wheel_LOD0_tmrxfdhda'"
+        }
+    ]
+}

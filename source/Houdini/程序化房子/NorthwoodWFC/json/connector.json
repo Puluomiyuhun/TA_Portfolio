@@ -1,0 +1,264 @@
+{
+    "connector": [
+        {
+            "name": "W0",
+            "port": "E,R0,R2,RF,PE,OH1,OH2,OHS,OHL,OHR,LE,LBE,SS,SE"
+        },
+        {
+            "name": "W1",
+            "port": "E"
+        },
+        {
+            "name": "W2",
+            "port": "R0,R2,RF,PE,OH1,OH2,OHS,OHL,OHR,LE,LBE,SS,SE"
+        },
+        {
+            "name": "WD",
+            "port": "LE"
+        },
+        {
+            "name": "WDG",
+            "port": "OH1"
+        },
+        {
+            "name": "WW",
+            "port": "E,RF,PE,OH1,OH2,OHS,OHL,OHR,LE,LBE,SS,SE,LE"
+        },
+        {
+            "name": "E",
+            "port": "E,W1,W0"
+        },
+        {
+            "name": "GF",
+            "port": "PET"
+        },
+        {
+            "name": "CF",
+            "port": "CF,RB"
+        },
+        {
+            "name": "RB",
+            "port": "CF"
+        },
+        {
+            "name": "R0",
+            "port": "R0,W0,W2"
+        },
+        {
+            "name": "R1",
+            "port": "RF,R1"
+        },
+        {
+            "name": "R2",
+            "port": "R2,RL,RR,W0,W2"
+        },
+        {
+            "name": "RS",
+            "port": "RF"
+        },
+        {
+            "name": "RF",
+            "port": "RF,R1,W0,W2,WW"
+        },
+        {
+            "name": "RL",
+            "port": "R2,RR"
+        },
+        {
+            "name": "RR",
+            "port": "R2,RL"
+        },
+        {
+            "name": "PE",
+            "port": "PE,W0,W2,PSE"
+        },
+        {
+            "name": "PT",
+            "port": "OHB,LEB,SEB0,SEB1,SEB2,SEB3,SEB"
+        },
+        {
+            "name": "PHT",
+            "port": "OHB"
+        },
+        {
+            "name": "PRT",
+            "port": "ORB"
+        },
+        {
+            "name": "PET",
+            "port": "GF"
+        },
+        {
+            "name": "PS",
+            "port": "PS0"
+        },
+        {
+            "name": "PSE",
+            "port": "PE"
+        },
+        {
+            "name": "PS0",
+            "port": "PS"
+        },
+        {
+            "name": "PB",
+            "port": "nan"
+        },
+        {
+            "name": "OHB",
+            "port": "PHT"
+        },
+        {
+            "name": "ORB",
+            "port": "PRT"
+        },
+        {
+            "name": "OH1",
+            "port": "W0,WDG,W2"
+        },
+        {
+            "name": "OH2",
+            "port": "OH2,OHL,OHR,W0,W2"
+        },
+        {
+            "name": "OHL",
+            "port": "OH2,OHR,W0,W2"
+        },
+        {
+            "name": "OHR",
+            "port": "OH2,OHL,W0,W2"
+        },
+        {
+            "name": "OHS",
+            "port": "W0,W2"
+        },
+        {
+            "name": "OH0",
+            "port": "nan"
+        },
+        {
+            "name": "L0",
+            "port": "nan"
+        },
+        {
+            "name": "LE",
+            "port": "W0,S0,LE,S1,WD,SE,SS,W2,SE1,WW"
+        },
+        {
+            "name": "LT",
+            "port": "nan"
+        },
+        {
+            "name": "LB",
+            "port": "LET"
+        },
+        {
+            "name": "LBE",
+            "port": "W0,SE,LBE,SS,W2,SE0"
+        },
+        {
+            "name": "LET",
+            "port": "LB,LEB"
+        },
+        {
+            "name": "LEB",
+            "port": "PT,LET"
+        },
+        {
+            "name": "SS",
+            "port": "W0,SE,LBE,LE,W2,SS"
+        },
+        {
+            "name": "S0",
+            "port": "LE,SE,SE1"
+        },
+        {
+            "name": "S1",
+            "port": "SE0"
+        },
+        {
+            "name": "SE",
+            "port": "LBE,W0,LE,SS,W2,S0,SE,SE0,SE1"
+        },
+        {
+            "name": "SE0",
+            "port": "LBE,SE1,S1,SE"
+        },
+        {
+            "name": "SE1",
+            "port": "S0,LE,SE0"
+        },
+        {
+            "name": "ST0",
+            "port": "SEB0"
+        },
+        {
+            "name": "ST1",
+            "port": "SEB1"
+        },
+        {
+            "name": "ST2",
+            "port": "SEB2"
+        },
+        {
+            "name": "ST3",
+            "port": "SEB3"
+        },
+        {
+            "name": "SB0",
+            "port": "SET0"
+        },
+        {
+            "name": "SB1",
+            "port": "SET1"
+        },
+        {
+            "name": "SB2",
+            "port": "SET2"
+        },
+        {
+            "name": "SB3",
+            "port": "SET3"
+        },
+        {
+            "name": "SET",
+            "port": "SEB,SEB0,SEB1,SEB2,SEB3"
+        },
+        {
+            "name": "SET0",
+            "port": "SB0,SEB0,SEB"
+        },
+        {
+            "name": "SET1",
+            "port": "SB1,SEB1,SEB"
+        },
+        {
+            "name": "SET2",
+            "port": "SB2,SEB2,SEB"
+        },
+        {
+            "name": "SET3",
+            "port": "SB3,SEB3,SEB"
+        },
+        {
+            "name": "SEB",
+            "port": "PT,SET,SET0,SET1,SET2,SET3"
+        },
+        {
+            "name": "SEB0",
+            "port": "PT,SET0,ST0,SET"
+        },
+        {
+            "name": "SEB1",
+            "port": "PT,SET1,ST1,SET"
+        },
+        {
+            "name": "SEB2",
+            "port": "PT,SET2,ST2,SET"
+        },
+        {
+            "name": "SEB3",
+            "port": "PT,SET3,ST3,SET"
+        }
+    ]
+}

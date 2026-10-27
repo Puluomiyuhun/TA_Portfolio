@@ -1,0 +1,124 @@
+{
+    "props": [
+        {
+            "name": "Old_Wooden_Bench",
+            "sizeX": "1.7",
+            "sizeY": "0.4",
+            "sizeZ": "0.5",
+            "priority": "0",
+            "facing": "z",
+            "rotate": "0",
+            "specific": "porch"
+        },
+        {
+            "name": "Old_Wooden_Carafe",
+            "sizeX": "0.4",
+            "sizeY": "0.5",
+            "sizeZ": "0.4",
+            "priority": "0",
+            "facing": "z",
+            "rotate": "1",
+            "specific": "nan"
+        },
+        {
+            "name": "Old_Wooden_Chest",
+            "sizeX": "0.9",
+            "sizeY": "0.5",
+            "sizeZ": "0.5",
+            "priority": "0",
+            "facing": "z",
+            "rotate": "1",
+            "specific": "nan"
+        },
+        {
+            "name": "Old_Wooden_Stool",
+            "sizeX": "0.8",
+            "sizeY": "0.8",
+            "sizeZ": "0.8",
+            "priority": "0",
+            "facing": "z",
+            "rotate": "1",
+            "specific": "porch"
+        },
+        {
+            "name": "Rusty_Metal_Milk_Churn",
+            "sizeX": "0.3",
+            "sizeY": "0.4",
+            "sizeZ": "0.3",
+            "priority": "0",
+            "facing": "z",
+            "rotate": "1",
+            "specific": "nan"
+        },
+        {
+            "name": "Rusty_Metal_Tub",
+            "sizeX": "1.0",
+            "sizeY": "0.4",
+            "sizeZ": "0.8",
+            "priority": "0",
+            "facing": "z",
+            "rotate": "1",
+            "specific": "nan"
+        },
+        {
+            "name": "Sandbag_Pile",
+            "sizeX": "0.6",
+            "sizeY": "0.6",
+            "sizeZ": "0.6",
+            "priority": "0",
+            "facing": "z",
+            "rotate": "1",
+            "specific": "nan"
+        },
+        {
+            "name": "Wooden_Ammo_Crate",
+            "sizeX": "2.6",
+            "sizeY": "0.6",
+            "sizeZ": "0.8",
+            "priority": "0",
+            "facing": "z",
+            "rotate": "0",
+            "specific": "porch"
+        },
+        {
+            "name": "Wooden_Chair",
+            "sizeX": "0.6",
+            "sizeY": "0.9",
+            "sizeZ": "0.6",
+            "priority": "0",
+            "facing": "x",
+            "rotate": "1",
+            "specific": "porch"
+        },
+        {
+            "name": "Wooden_Crate_01",
+            "sizeX": "0.6",
+            "sizeY": "0.5",
+            "sizeZ": "0.5",
+            "priority": "0",
+            "facing": "z",
+            "rotate": "1",
+            "specific": "nan"
+        },
+        {
+            "name": "Wooden_Crate_02",
+            "sizeX": "0.6",
+            "sizeY": "0.6",
+            "sizeZ": "0.8",
+            "priority": "0",
+            "facing": "x",
+            "rotate": "1",
+            "specific": "nan"
+        },
+        {
+            "name": "Wooden_Wheel",
+            "sizeX": "0.9",
+            "sizeY": "0.2",
+            "sizeZ": "0.9",
+            "priority": "0",
+            "facing": "z",
+            "rotate": "1",
+            "specific": "porch"
+        }
+    ]
+}
